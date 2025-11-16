@@ -1,3 +1,3 @@
-git add Makefile
-git commit -m "Add Makefile for Netlify build"
-git push origin main
+all:         # Line 1
+<TAB>hugo    # Line 2 – must start with a TAB
+
