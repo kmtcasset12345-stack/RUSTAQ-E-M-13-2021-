@@ -1,11 +1,6 @@
-{
-  "name": "rusta-project",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "vite build"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+"scripts": {
+  "preinstall": "curl https://sh.rustup.rs -sSf | sh -s -- -y",
+  "build": "your-framework-build-command"
 }
 
 
