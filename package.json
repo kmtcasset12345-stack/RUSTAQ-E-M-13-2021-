@@ -1,4 +1,2 @@
-npm ERR! code EJSONPARSE
-npm ERR! File: package.json
-npm ERR! Unexpected token 'p' in JSON at position …
-npm ERR! "npm run build"
+npm run build
+
