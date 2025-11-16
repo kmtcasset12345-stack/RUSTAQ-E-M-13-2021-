@@ -8,11 +8,11 @@
     "start": "npm start"
   },
   "dependencies": {
-    // your dependencies go here, e.g.:
+    
     "react": "^18.2.0"
   },
   "devDependencies": {
-    // your devDependencies if any
+    
   }
 }
 
