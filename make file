@@ -1,0 +1,5 @@
+all: build
+
+build:
+	npm ci
+	npm run build
