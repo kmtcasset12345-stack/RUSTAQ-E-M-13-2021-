@@ -1,4 +1,0 @@
-Storage.add("materials", { itemName: "Helmet", qty: 5 });
-Storage.getAll("materials");
-Storage.softDelete("materials", id);
-Storage.restore("materials", id);
