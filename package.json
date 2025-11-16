@@ -1,6 +1,7 @@
-git add package.json
-git commit -m "Fix package.json syntax"
-git push origin main
+"scripts": {
+  "preinstall": "curl https://sh.rustup.rs -sSf | sh -s -- -y",
+  "build": "your-framework-build-command"
+}
 
 
 
