@@ -1,6 +1,19 @@
-"scripts": {
-  "preinstall": "curl https://sh.rustup.rs -sSf | sh -s -- -y",
-  "build": "your-framework-build-command"
+{
+  "name": "rustaq-e-m-13-2021",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "preinstall": "npm install",
+    "build": "npm run build",
+    "start": "npm start"
+  },
+  "dependencies": {
+    // your dependencies go here, e.g.:
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    // your devDependencies if any
+  }
 }
 
 
