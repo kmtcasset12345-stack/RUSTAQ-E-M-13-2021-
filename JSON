@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "your-build-command",
+    "start": "your-start-command"
+  },
+  "dependencies": {
+    "some-package": "^1.2.3"
+  }
+}
