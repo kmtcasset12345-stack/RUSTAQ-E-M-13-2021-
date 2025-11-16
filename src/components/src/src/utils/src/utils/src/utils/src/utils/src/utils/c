@@ -1,8 +1,1 @@
-const error = PhotoUtils.validate(file);
-if (error) {
-  alert(error);
-  return;
-}
 
-const base64 = await PhotoUtils.toBase64(file);
-const renamed = PhotoUtils.rename(file.name, "OLDPHOTO");
