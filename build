@@ -1,4 +1,6 @@
-npm ci
 npm run build
-
+next build
+vite build
+nuxt build    
+gatsby build
 
